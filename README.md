@@ -29,4 +29,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeunbiin@gmail.com)
 
 
-#### 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin)](https://github.com/eunbinzz/github-readme-stats) 
+#### 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin&show_icons=true&theme=dark)](https://github.com/eunbinzz/github-readme-stats) 

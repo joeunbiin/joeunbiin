@@ -16,7 +16,9 @@
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   
-  
+
+
+
 ### 🌱 I've used 🌱 
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   [![VSCode Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](http://code.visualstudio.com/)
@@ -25,15 +27,17 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
+
+
 ### 🤙🏻 Contect me 🤙🏻
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeunbiin@gmail.com)
+
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeunbiin&layout=compact&bg_color=151515&text_color=9f9f9f&title_color=fff)](https://github.com/joeunbiin/github-readme-stats)
 
 
+
+
 #### 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin&show_icons=true&theme=dark)](https://github.com/eunbinzz/github-readme-stats) 
-
-
-

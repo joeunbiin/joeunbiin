@@ -18,6 +18,7 @@
   
 
 </br>
+
 ## 🌱 I've used 🌱 
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   [![VSCode Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](http://code.visualstudio.com/)
@@ -27,6 +28,7 @@
 
 
 </br>
+
 ## 🤙🏻 Contect me 🤙🏻
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeunbiin@gmail.com)
 
@@ -35,4 +37,5 @@
 
 
 </br>
+
 ## 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin&show_icons=true&theme=dark)](https://github.com/eunbinzz/github-readme-stats) 

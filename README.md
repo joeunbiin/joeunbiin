@@ -1,5 +1,7 @@
 # 👩🏻‍💻Eunbin's Story
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoeunbiin%2Fhit-counter&count_bg=%23528F1A&title_bg=%23838383&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </br>
 
 ## 🛠 Skills 🛠 
@@ -37,10 +39,9 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeunbiin&layout=compact&bg_color=151515&text_color=9f9f9f&title_color=fff)](https://github.com/joeunbiin/github-readme-stats)
-
 
 ## 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin&show_icons=true&theme=dark)](https://github.com/eunbinzz/github-readme-stats) 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoeunbiin%2Fhit-counter&count_bg=%23528F1A&title_bg=%23838383&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeunbiin&layout=compact&bg_color=151515&text_color=9f9f9f&title_color=fff)](https://github.com/joeunbiin/github-readme-stats)
+

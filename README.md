@@ -18,7 +18,7 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-#### 🤙🏻 Contect me 🤙🏻
+### 🤙🏻 Contect me 🤙🏻
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeunbiin@gmail.com)
 
 

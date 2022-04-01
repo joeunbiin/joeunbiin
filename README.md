@@ -29,7 +29,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeunbiin@gmail.com)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeunbiin&layout=compact&bg_color=151515&text_color=9f9f9f&title_color=fff)](https://github.com/joeunbiin/github-readme-stats)
+
+
 #### 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin&show_icons=true&theme=dark)](https://github.com/eunbinzz/github-readme-stats) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeunbiin&layout=compact&bg_color=151515&text_color=9f9f9f&title_color=fff)](https://github.com/joeunbiin/github-readme-stats)
+

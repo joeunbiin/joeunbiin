@@ -30,3 +30,6 @@
 
 
 #### 	[![joeunbiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeunbiin&show_icons=true&theme=dark)](https://github.com/eunbinzz/github-readme-stats) 
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joeunbiin)](https://github.com/anuraghazra/github-readme-stats)
